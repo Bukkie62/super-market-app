@@ -1,4 +1,4 @@
 # super-market-app
 For logistics purposes
 
-this is very nice
+This project will be useful for consumers
